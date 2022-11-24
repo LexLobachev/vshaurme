@@ -134,3 +134,8 @@ dmypy.json
 
 # Mac/OSX
 .DS_Store
+
+# Database
+/db/*.sqlite3
+database.sqlite3
+another_db.sqlite3
